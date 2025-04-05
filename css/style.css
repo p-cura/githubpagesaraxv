@@ -33,6 +33,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	color: #111;
 	font-weight: 500;
+ 	background: #18086b;
 }
 
 .section-padding{
@@ -53,13 +54,13 @@ h1,h2,h3,h4,h5{
 }
 
 p{
-	color: #FDABDF;
+	color: #b9d6ff;
 }
 
 main{
 	position: relative;
 	z-index: 2;
-	background: #fff;
+	background: #18086b;
 	margin-bottom: 247px;
 }
 
@@ -377,21 +378,21 @@ textarea:focus
   text-align: center;
   font-size: 10px;
   border-radius: 50%;
-  background: #f7f7f7;
+  background: #b9d6ff;
   position: absolute;
   top: 0px;
   right: -5px;
 }
 
 .hero .services{
-	background: #FDABDF;
+	background: #b9d6ff;
 	margin-top: 0px;
 }
 
 .services .serv-row .serv-item{
 	padding: 40px 20px;
 	text-align: center;
-	background: #fff;
+	background: #b9d6ff;
 }
 
 .services .serv-row .serv-item span{
@@ -601,7 +602,7 @@ textarea:focus
 	background: transparent;
 	border: 1px solid #eee;
 	padding: 5px 20px;
-	color: #fff;
+	color: #b9d6ff;
 	border-radius: 0;
 }
 
@@ -623,18 +624,18 @@ textarea:focus
 
 .numbers .numb-item span{
 	font-size: 40px;
-	color: #FDABDF;
+	color: #b9d6ff;
 }
 
 .numbers .numb-item h3{
 	font-weight: 700;
 	margin: 20px auto;
-	color: #FDABDF; 
+	color: #b9d6ff; 
 	font-size:30px;
 }
 
 .numbers .numb-item p{
-	color: #FDABDF;
+	color: #b9d6ff;
 }
 
 /* -------------------------------------------------------
@@ -646,7 +647,7 @@ textarea:focus
 }
 
 .blog .content-post{
-	background: #fff;
+	background: #18086b;
 	padding: 30px 20px;
 }
 
@@ -723,7 +724,7 @@ textarea:focus
 	transform: translateY(-4px);
 	background: #111;
 	border-color: #111;
-	color: #fff; 
+	color: #18086b; 
 }
 
 .contact .form{
@@ -765,7 +766,7 @@ footer{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #fff;
+	background: #18086b;
 	padding: 80px 0;
 	text-align: center;
 	z-index: 1;
@@ -1042,7 +1043,7 @@ footer p{
 	width: 50px;
 	height: 40px;
 	line-height: 40px;
-	background: #fff;
+	background: #b9d6ff;
 	margin: 0 -2px;
 	cursor: pointer;
 }
